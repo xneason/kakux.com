@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2300" height="979" viewBox="0 0 2300 979">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 83.333px;
+        filter: url(#filter);
+        fill: #fdcfb6;
+        font-family: FZZhengHeiS-DB-GB;
+      }
+    </style>
+    <filter id="filter" x="547" y="707" width="1207" height="134" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="13" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="5.385"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="卡酷源码VIP会员尊享专属特权" class="cls-1" x="570.809" y="790.398">卡酷源码VIP会员尊享专属特权</text>
+</svg>
